@@ -1,2 +1,2 @@
-# Gi-i-OOP-c-c-n-m-UIT
+# log
 Ôn tập cuối kì OOP nên repo này mình sẽ giải các đề năm trước của UIT.
